@@ -1,8 +1,6 @@
 This repository has my MATH 4330 HW2
 
 
-HW 2 - due Tuesday, February 11, in classWrite each answer as an executable script file called#.sh, where#=1,2,...You’ll upload 
-these files in class in our file server, inside a folderhw2that you will create in your personal directory.
 
 1. Print the number of words of a sentence of your choice (seeecho, the pipeline operator andwcwith an appropriateflag)
 
